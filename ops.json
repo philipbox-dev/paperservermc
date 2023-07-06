@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "8ec19e71-8655-3be3-a678-571cbb9860b7",
+    "name": "Sasha",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "80f432b1-e8dc-3f68-bca4-b1fe4dcc78f1",
+    "name": "herobrine",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8102579d-26c6-31ea-86ee-78ac3510eaf8",
+    "name": "GeraTV",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "02fa83d4-7a04-3d52-8b1d-717f0246193e",
+    "name": "Philipbox",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "25966168-dc9c-360c-8f32-ed022bfa1070",
+    "name": "Herobrine",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
