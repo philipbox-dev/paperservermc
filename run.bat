@@ -1,2 +1,2 @@
-java -Xmx1G -jar paper.jar
+java -Xmx7G -Xms2G -jar paper.jar
 PAUSE
